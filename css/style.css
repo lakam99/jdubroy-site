@@ -2,6 +2,10 @@ html {
     /* scroll-behavior: smooth; */
 }
 
+em {
+	color: #955351;
+}
+
 body, html {
 	font-family: 'Open Sans', sans-serif;
 	text-rendering: optimizeLegibility !important;
